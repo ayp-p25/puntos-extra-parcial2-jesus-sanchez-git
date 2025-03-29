@@ -5,4 +5,4 @@ for i in str(N):
     if d != 0 and N % d == 0:
         C += 1
 
-print(f"El numero {N} tiene estos divisores {C}")
+print(f"Digitos divisores {C}")
